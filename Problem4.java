@@ -12,7 +12,7 @@ public class Problem4 {
             System.out.println("Error: You must enter exactly " + n + " numbers");
             return;
         }
-        int[] counts = new int[10]; // counts[1] to counts[9]
+        int[] counts = new int[10]; 
         for (String numStr : parts) {
             int num = Integer.parseInt(numStr.trim());
             for (int i = 1; i <= 9; i++) {
@@ -27,3 +27,4 @@ public class Problem4 {
         System.out.println("}");
     }
 }
+
