@@ -24,8 +24,7 @@ I wrote a program to print the first `n` odd numbers in sequence, where `n` is p
 
 **Implementation Details:**  
 - I used a loop to generate odd numbers dynamically.  
-- I calculated each number using a simple formula (`2*i + 1`).  
-- The program prints the numbers in a comma-separated format.  
+- I calculated each number using a simple formula (`2*i + 1`).   
 - This problem allowed me to practice loops, arithmetic operations, and formatted output in Java.  
 
 ---
@@ -38,7 +37,6 @@ I implemented a program to generate a specific block of consecutive odd numbers 
 **Implementation Details:**  
 - I determined the "block" of odd numbers dynamically based on the input.  
 - I calculated the total number of odd numbers in the block using a loop.  
-- The numbers are printed in a formatted sequence with commas.  
 - This exercise helped me strengthen my skills in loops, arithmetic operations, and conditional logic.  
 
 ---
@@ -49,7 +47,7 @@ I implemented a program to generate a specific block of consecutive odd numbers 
 I created a program that takes `n` numbers from the user and counts how many of them are divisible by each number from 1 to 9.  
 
 **Implementation Details:**  
-- I took input as a comma-separated string and split it into individual numbers.  
+- I took input as a string and split it into individual numbers.  
 - I validated that the correct number of elements is entered.  
 - I iterated through each number to check divisibility for numbers 1 through 9.  
 - The output displays a structured map showing counts for each divisor.  
@@ -62,8 +60,8 @@ I created a program that takes `n` numbers from the user and counts how many of 
 1. I created a new Java Project in Eclipse.  
 2. I created a package named `mypackage`.  
 3. I added four classes: `Problem1.java`, `Problem2.java`, `Problem3.java`, `Problem4.java`.  
-4. I copied my code for each problem into its respective class file.  
-5. I ran the classes individually to test and verify the output.  
+4. I ran the classes individually to test and verify the output.  
 
 ---
+
 
